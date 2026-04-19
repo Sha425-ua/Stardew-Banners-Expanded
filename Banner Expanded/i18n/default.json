@@ -1,0 +1,28 @@
+{
+    "MoonBanner.Name": "Moon Banner",
+    "SunBanner.Name": "Sun Banner",
+    "HarvestBanner.Name": "Harvest Banner",
+    "MushroomBanner.Name": "Mushroom Clearing Banner",
+    "WinterStarBanner.Name": "Winter Star Banner",
+    "GeodeBanner.Name": "Mine Banner",
+    "DragonBanner.Name": "Dragon Banner",
+    "SpringBanner.Name": "Blossom Banner",
+    "StarBanner.Name": "Star Banner",
+    "DesertBanner.Name": "Desert Banner",
+    "PearlBanner.Name": "Pearl Banner",
+
+    "ParrotBanner.Name": "Bird Banner",
+    "EmilyEvent.Dialogue1": "Hi, @! Look what I've made! I sewed two of these banners... One for you, and one for my room.",
+    "EmilyEvent.Dialogue2": "But when I tried to hang it up, I realized I have no space left at all! I'll have to figure that out later...$s#$b#Anyway, yours is ready! Let this bird remind you of freedom. See you!$h",
+    
+    "ChickenBanner.Name": "Chicken Banner",
+    "ShaneEvent.GiftText": "By the way... take this banner. It'll look great on your wall.$h",
+    "ShaneMail.Text": "Hey @,^I noticed your pockets were full when I showed you my chickens earlier.^I wanted you to have this banner to remember the blue ones!^   - Shane",
+
+    "FishBanner.Name": "Big Fish Banner",
+    "WillyFishMail.Text": "Hello, @!^I've seen you fishing lately. You're making great progress!^Old Willy rarely misjudges people, and you definitely have talent. Patience and a steady hand — that's the secret of a true master.^I found this banner in some old chests and thought it would look great on your wall.^Keep up the good work!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]A Gift from Willy",
+
+    "GoldCoconutBanner.Name": "Tropical Coconut Banner",
+
+    "Mail.WinterStar.Text": "Happy Feast of the Winter Star!^In honor of the holiday, I am sending you a special rare banner to decorate your farm.^Let it remind you of this winter.^^Sincerely,^A Mysterious Sender %item object (F)MyCustomWinterStarBanner 1 %%[#]Holiday Gift"
+}

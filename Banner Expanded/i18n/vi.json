@@ -1,0 +1,23 @@
+{
+    "MoonBanner.Name": "Cờ Mặt Trăng",
+    "SunBanner.Name": "Cờ Mặt Trời",
+    "HarvestBanner.Name": "Cờ Mùa Vụ",
+    "MushroomBanner.Name": "Cờ Rừng Nấm",
+    "WinterStarBanner.Name": "Cờ Ngôi Sao Mùa Đông",
+    "GeodeBanner.Name": "Cờ Hầm Mỏ",
+    "DragonBanner.Name": "Cờ Rồng",
+    "SpringBanner.Name": "Cờ Hoa Nở",
+    "StarBanner.Name": "Cờ Ngôi Sao",
+    "ParrotBanner.Name": "Cờ Chim",
+    "DesertBanner.Name": "Cờ hiệu sa mạc",
+    "PearlBanner.Name": "Biểu ngữ ngọc trai",
+    "EmilyEvent.Dialogue1": "Chào @! Xem tớ vừa làm gì này! Tớ đã may hai chiếc cờ như thế này... Một cho cậu, và một cho phòng của tớ.",
+    "EmilyEvent.Dialogue2": "Nhưng khi tớ định treo nó lên, tớ nhận ra phòng mình chẳng còn chỗ nào cả! Tớ sẽ tính sau vậy...$s#$b#Dù sao thì, của cậu đã xong rồi đây! Hãy để chú chim này nhắc cậu về sự tự do nhé. Hẹn gặp lại!$h",
+    "ChickenBanner.Name": "Cờ Gà",
+    "ShaneEvent.GiftText": "Nhân tiện... cầm lấy chiếc cờ này đi. Nó sẽ rất hợp với bức tường của cậu đấy.$h",
+    "ShaneMail.Text": "Này @,^Tớ thấy túi cậu đã đầy khi tớ cho cậu xem lũ gà hồi nãy.^Tớ muốn cậu có chiếc cờ này để nhớ về những con gà xanh!^   - Shane",
+    "FishBanner.Name": "Cờ Cá Lớn",
+    "WillyFishMail.Text": "Chào con, @!^Gần đây ta thấy con đi câu cá suốt. Con đang tiến bộ rất nhanh đấy!^Lão Willy này hiếm khi nhìn lầm người, và con chắc chắn có tài năng. Kiên trì và chắc tay — đó là bí quyết của một bậc thầy thực thụ.^Ta tìm thấy chiếc cờ này trong mấy cái rương cũ và nghĩ nó sẽ rất đẹp trên tường nhà con.^Cố gắng lên nhé!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Món quà từ Willy",
+    "GoldCoconutBanner.Name": "Cờ Dừa Nhiệt Đới",
+    "Mail.WinterStar.Text": "Chúc mừng Lễ Hội Ngôi Sao Mùa Đông!^Để kỷ niệm ngày lễ, ta gửi cho con một chiếc cờ hiếm đặc biệt để trang trí trang trại.^Hãy để nó nhắc con về mùa đông này nhé.^^Thân ái,^Người gửi bí ẩn %item object (F)MyCustomWinterStarBanner 1 %%[#]Quà Ngày Lễ"
+}

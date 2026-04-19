@@ -1,0 +1,23 @@
+{
+    "MoonBanner.Name": "Estandarte de Luna",
+    "SunBanner.Name": "Estandarte de Sol",
+    "HarvestBanner.Name": "Estandarte de Cosecha",
+    "MushroomBanner.Name": "Estandarte de Claro de Setas",
+    "WinterStarBanner.Name": "Estandarte de la Estrella de Invierno",
+    "GeodeBanner.Name": "Estandarte de Mina",
+    "DragonBanner.Name": "Estandarte de Dragón",
+    "SpringBanner.Name": "Estandarte de Floración",
+    "StarBanner.Name": "Estandarte de Estrella",
+    "DesertBanner.Name": "Estandarte del desierto",
+    "ParrotBanner.Name": "Estandarte de Pájaro",
+    "PearlBanner.Name": "Estandarte de Perla",
+    "EmilyEvent.Dialogue1": "¡Hola, @! ¡Mira lo que he hecho! Cosí dos de estos estandartes... Uno para ti y otro para mi habitación.",
+    "EmilyEvent.Dialogue2": "¡Pero cuando intenté colgarlo, me di cuenta de que no me queda espacio en absoluto! Tendré que resolverlo más tarde...$s#$b#¡En fin, el tuyo está listo! Que este pájaro te recuerde la libertad. ¡Nos vemos!$h",
+    "ChickenBanner.Name": "Estandarte de Pollo",
+    "ShaneEvent.GiftText": "Por cierto... toma este estandarte. Quedará genial en tu pared.$h",
+    "ShaneMail.Text": "Hola @,^Me di cuenta de que tus bolsillos estaban llenos cuando te mostré mis pollos antes.^¡Quería que tuvieras este estandarte para recordar a los azules!^   - Shane",
+    "FishBanner.Name": "Estandarte del Gran Pez",
+    "WillyFishMail.Text": "¡Hola, @!^Te he visto pescar últimamente. ¡Estás progresando mucho!^El viejo Willy rara vez se equivoca con la gente, и tú definitivamente tienes talento. Paciencia y mano firme, ese es el secreto de un verdadero maestro.^Encontré este estandarte en unos cofres viejos y pensé que quedaría genial en tu pared.^¡Sigue así!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Un regalo de Willy",
+    "GoldCoconutBanner.Name": "Estandarte de Coco Tropical",
+    "Mail.WinterStar.Text": "¡Feliz Fiesta de la Estrella de Invierno!^En honor a la festividad, te envío un estandarte raro especial para decorar tu granja.^Que te recuerde a este invierno.^^Sinceramente,^Un remitente misterioso %item object (F)MyCustomWinterStarBanner 1 %%[#]Regalo de festividad"
+}

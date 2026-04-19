@@ -1,0 +1,28 @@
+{
+    "MoonBanner.Name": "月亮旗帜",
+    "SunBanner.Name": "太阳旗帜",
+    "HarvestBanner.Name": "丰收旗帜",
+    "MushroomBanner.Name": "蘑菇空地旗帜",
+    "WinterStarBanner.Name": "冬日之星旗帜",
+    "GeodeBanner.Name": "矿井旗帜",
+    "DragonBanner.Name": "巨龙旗帜",
+    "SpringBanner.Name": "花开旗帜",
+    "StarBanner.Name": "星星旗帜",
+    "DesertBanner.Name": "沙漠旗帜",
+    "PearlBanner.Name": "珍珠旗",
+
+    "ParrotBanner.Name": "鸟儿旗帜",
+    "EmilyEvent.Dialogue1": "嗨，@！看我做了什么！我缝了两面这样的旗帜……一面给你，一面挂在我房间里。",
+    "EmilyEvent.Dialogue2": "但是当我试图把它挂起来的时候，我发现我完全没有空间了！我以后得想办法解决这个问题……$s#$b#不管怎样，你的已经准备好了！让这只鸟提醒你自由的感觉。再见！$h",
+ 
+    "ChickenBanner.Name": "小鸡旗帜",
+    "ShaneEvent.GiftText": "顺便说一句……拿着这面旗帜。挂在你墙上肯定很棒。$h",
+    "ShaneMail.Text": "嘿 @，^我刚才给你看我的鸡的时候，注意到你的口袋都满了。^我想让你拿着这面旗帜，以此纪念那些蓝色的鸡！^   - 谢恩",
+ 
+    "FishBanner.Name": "大鱼旗帜",
+    "WillyFishMail.Text": "你好，@！^我最近看到你在钓鱼。你进步神速！^老威利看人很少走眼，你绝对有天赋。耐心和稳健的手法——这是一位真正大师的秘诀。^我在一些旧箱子里发现了这面旗帜，觉得挂在你墙上会很棒。^继续保持！^   - 威利 %item object (F)MyCustomFishBanner 1 %%[#]威利的礼物",
+   
+    "GoldCoconutBanner.Name": "热带椰子旗帜",
+    
+    "Mail.WinterStar.Text": "冬日之星盛宴快乐！^为了庆祝节日，我寄给你一面特别的稀有旗帜来装饰你的农场。^让它让你想起这个冬天。^^真诚地，^一位神秘的寄件人 %item object (F)MyCustomWinterStarBanner 1 %%[#]节日礼物"
+}

@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[Code] Banners Expanded Logic", "[Code] Banners Expanded Logic", "{39473761-C136-A5EB-B10A-E898D0F8B0D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{ACDA5156-F5F8-96C0-07DF-53CEBF87B404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannersExpandedLogic", "[Code] Banners Expanded Logic\source\BannersExpandedLogic.csproj", "{38EE8F11-4D3F-ED4D-4943-46D6EA803144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EE8F11-4D3F-ED4D-4943-46D6EA803144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EE8F11-4D3F-ED4D-4943-46D6EA803144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EE8F11-4D3F-ED4D-4943-46D6EA803144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EE8F11-4D3F-ED4D-4943-46D6EA803144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ACDA5156-F5F8-96C0-07DF-53CEBF87B404} = {39473761-C136-A5EB-B10A-E898D0F8B0D1}
+		{38EE8F11-4D3F-ED4D-4943-46D6EA803144} = {ACDA5156-F5F8-96C0-07DF-53CEBF87B404}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6F021F-F103-48DA-B480-03F0641168AB}
+	EndGlobalSection
+EndGlobal

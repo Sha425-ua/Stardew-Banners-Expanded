@@ -1,0 +1,16 @@
+{
+  "Name": "Banner Expanded",
+  "Author": "Sha_425",
+  "Version": "1.5.2-patch",
+  "Description": "Logic for delivering rewards.",
+  "UniqueID": "Sha_425.Banner.Logic",
+  "EntryDll": "BannersExpandedLogic.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [40482],
+  "Dependencies": [
+     {
+       "UniqueID": "Sha_425.Banner",
+       "IsRequired": true
+     } 
+  ]
+}

@@ -1,0 +1,19 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+project.assets.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# Build results
+*.dll
+*.pdb

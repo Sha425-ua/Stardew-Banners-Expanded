@@ -1,0 +1,18 @@
+{
+  "Name": "Banner Expanded",
+  "Author": "Sha_425",
+  "Version": "1.5.2-patch",
+  "Description": "Adds new banners.",
+  "UniqueID": "Sha_425.Banner",
+  "UpdateKeys": [40482],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+      "IsRequired": false
+    }
+  ],
+  "ContentPackSource": "NexusMods"
+}

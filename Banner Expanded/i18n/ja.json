@@ -1,0 +1,23 @@
+{
+    "MoonBanner.Name": "月の旗",
+    "SunBanner.Name": "太陽の旗",
+    "HarvestBanner.Name": "収穫の旗",
+    "MushroomBanner.Name": "キノコの森の旗",
+    "WinterStarBanner.Name": "冬の星の旗",
+    "GeodeBanner.Name": "鉱山の旗",
+    "DragonBanner.Name": "ドラゴンの旗",
+    "SpringBanner.Name": "桜の旗",
+    "StarBanner.Name": "星の旗",
+    "DesertBanner.Name": "砂漠のバナー",
+    "ParrotBanner.Name": "小鳥の旗",
+    "PearlBanner.Name": "真珠のバナー",
+    "EmilyEvent.Dialogue1": "やあ、@！見て、これを作ったの！この旗を2つ縫ったんだ……1つはあなたに、もう1つは私の部屋用にね。",
+    "EmilyEvent.Dialogue2": "でも、飾ろうとしたら、私の部屋にはもうスペースがまったくないことに気づいちゃった！それは後でなんとかするとして……$s#$b#とにかく、あなたのは準備できてるわ！この鳥を見て、自由を思い出してね。またね！$h",
+    "ChickenBanner.Name": "ニワトリの旗",
+    "ShaneEvent.GiftText": "ついでに……この旗を持っていけよ。あんたの家の壁に似合うと思うぜ。$h",
+    "ShaneMail.Text": "よお @、^さっきニワトリを見せた時、あんたのポケットがいっぱいだったみたいだな。^青いニワトリのことを思い出せるように、この旗をあんたに受け取ってほしかったんだ！^   - シェーン",
+    "FishBanner.Name": "大魚の旗",
+    "WillyFishMail.Text": "やあ、@！^最近よく釣りをしているようだね。素晴らしい上達ぶりだ！^わしの目に狂いはない。あんたには間違いなく才能がある。忍耐と安定した腕前、それが真の達人の秘訣だよ。^古い宝箱の中からこの旗を見つけたんだが、あんたの家の壁に飾れば映えると思ってね。^これからも励みなさい！^   - ウィリー %item object (F)MyCustomFishBanner 1 %%[#]ウィリーからの贈り物",
+    "GoldCoconutBanner.Name": "南国のココナッツの旗",
+    "Mail.WinterStar.Text": "冬の星祭、おめでとう！^祝日を記念して、牧場を飾るための特別なレアな旗を贈るよ。^この冬の思い出に飾ってくれ。^^敬具^謎の送り主より %item object (F)MyCustomWinterStarBanner 1 %%[#]冬の星祭の贈り物"
+}

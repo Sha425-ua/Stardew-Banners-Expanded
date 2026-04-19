@@ -1,0 +1,28 @@
+{
+    "MoonBanner.Name": "Mondbanner",
+    "SunBanner.Name": "Sonnenbanner",
+    "HarvestBanner.Name": "Erntebanner",
+    "MushroomBanner.Name": "Pilzlichtung-Banner",
+    "WinterStarBanner.Name": "Winterstern-Banner",
+    "GeodeBanner.Name": "Minenbanner",
+    "DragonBanner.Name": "Drachenbanner",
+    "SpringBanner.Name": "Blütenbanner",
+    "StarBanner.Name": "Sternenbanner",
+    "DesertBanner.Name": "Wüstenbanner",
+    "PearlBanner.Name": "Perlenbanner",
+
+    "ParrotBanner.Name": "Vogel-Banner",
+    "EmilyEvent.Dialogue1": "Hallo, @! Schau mal, was ich gemacht habe! Ich habe zwei dieser Banner genäht... eines für dich und eines für mein Zimmer.",
+    "EmilyEvent.Dialogue2": "Aber als ich versuchte, es aufzuhängen, merkte ich, dass ich absolut keinen Platz mehr habe! Ich werde mich später darum kümmern müssen...$s#$b#Wie auch immer, deins ist fertig! Möge dieser Vogel dich an die Freiheit erinnern. Bis bald!$h",
+
+    "ShaneMail.Text": "Hey @,^ich habe gesehen, dass deine Taschen voll waren, als ich dir vorhin meine Hühner gezeigt habe.^Nimm dieses Banner als Andenken an die blauen!^   - Shane",
+    "ChickenBanner.Name": "Hühnerbanner",
+    "ShaneEvent.GiftText": "Übrigens... nimm dieses Banner. Es würde sich gut an deiner Wand machen.$h",
+
+    "FishBanner.Name": "Banner «Großer Fisch»",
+    "WillyFishMail.Text": "Hallo @!^Ich habe dich in letzter Zeit angeln sehen. Du machst große Fortschritte!^Der alte Willy irrt sich selten in Menschen, und du hast definitiv Talent. Geduld und eine ruhige Hand – das ist das Geheimnis eines wahren Meisters.^Ich habe dieses Banner in alten Truhen gefunden und dachte, es würde sich gut an deiner Wand machen.^Mach weiter so!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Ein Geschenk von Willy",
+
+    "GoldCoconutBanner.Name": "Tropisches Kokosnuss-Banner",
+
+    "Mail.WinterStar.Text": "Frohes Fest des Wintersterns!^Zu Ehren des Feiertags sende ich dir ein besonderes, seltenes Banner, um deine Farm zu schmücken.^Lass es dich an diesen Winter erinnern.^^Hochachtungsvoll,^Ein geheimnisvoller Absender %item object (F)MyCustomWinterStarBanner 1 %%[#]Festtagsgeschenk"
+}

@@ -1,0 +1,23 @@
+{
+    "MoonBanner.Name": "Bannière de Lune",
+    "SunBanner.Name": "Bannière de Soleil",
+    "HarvestBanner.Name": "Bannière de Récolte",
+    "MushroomBanner.Name": "Bannière de Clairière aux Champignons",
+    "WinterStarBanner.Name": "Bannière de l'Étoile d'Hiver",
+    "GeodeBanner.Name": "Bannière de Mine",
+    "DragonBanner.Name": "Bannière de Dragon",
+    "SpringBanner.Name": "Bannière de Floraison",
+    "StarBanner.Name": "Bannière Étoilée",
+    "ParrotBanner.Name": "Bannière d'Oiseau",
+    "DesertBanner.Name": "Bannière du désert",
+    "PearlBanner.Name": "Bannière de perle",
+    "EmilyEvent.Dialogue1": "Salut @ ! Regarde ce que j'ai fait ! J'ai cousu deux de ces bannières... Une pour toi, et une pour ma chambre.",
+    "EmilyEvent.Dialogue2": "Mais quand j'ai essayé de l'accrocher, j'ai réalisé que je n'avais plus de place du tout ! Je devrai régler ça plus tard...$s#$b#Enfin, la tienne est prête ! Que cet oiseau te rappelle la liberté. À plus !$h",
+    "ChickenBanner.Name": "Bannière de Poulet",
+    "ShaneEvent.GiftText": "Au fait... prends cette bannière. Elle sera superbe sur ton mur.$h",
+    "ShaneMail.Text": "Hé @,^J'ai remarqué que tes poches étaient pleines quand je t'ai montré mes poulets tout à l'heure.^Je voulais que tu aies cette bannière pour te souvenir des bleus !^   - Shane",
+    "FishBanner.Name": "Bannière du Gros Poisson",
+    "WillyFishMail.Text": "Salut @ !^Je t'ai vu pêcher ces derniers temps. Tu fais de super progrès !^Le vieux Willy se trompe rarement sur les gens, et tu as vraiment du talent. De la patience et une main ferme — c'est le secret d'un vrai maître.^J'ai trouvé cette bannière dans de vieux coffres et j'ai pensé qu'elle irait bien sur ton mur.^Continue comme ça !^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Un cadeau de Willy",
+    "GoldCoconutBanner.Name": "Bannière de Noix de Coco Tropicale",
+    "Mail.WinterStar.Text": "Joyeuse Fête de l'Étoile d'Hiver !^En l'honneur de cette fête, je t'envoie une bannière rare spéciale pour décorer ta ferme.^Laisse-la te rappeler cet hiver.^^Sincèrement,^Un expéditeur mystérieux %item object (F)MyCustomWinterStarBanner 1 %%[#]Cadeau de Noël"
+}

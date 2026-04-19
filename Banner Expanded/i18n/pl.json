@@ -1,0 +1,23 @@
+{
+    "MoonBanner.Name": "Księżycowy baner",
+    "SunBanner.Name": "Słoneczny baner",
+    "HarvestBanner.Name": "Baner zbiorów",
+    "MushroomBanner.Name": "Baner grzybowej polany",
+    "WinterStarBanner.Name": "Baner Zimowej Gwiazdy",
+    "GeodeBanner.Name": "Górniczy baner",
+    "DragonBanner.Name": "Smoczy baner",
+    "SpringBanner.Name": "Baner kwitnienia",
+    "StarBanner.Name": "Gwieздny Sztandar",
+    "DesertBanner.Name": "Pustynny baner",
+    "ParrotBanner.Name": "Sztandar z Ptakiem",
+    "PearlBanner.Name": "Perłowy baner",
+    "EmilyEvent.Dialogue1": "Cześć, @! Spójrz, co zrobiłam! Uszyłam dwa takie sztandary... Jeden dla ciebie, a drugi do mojego pokoju.",
+    "EmilyEvent.Dialogue2": "Ale kiedy spróbowałam go powiesić, zdałam sobie sprawę, że nie mam już wcale miejsca! Będę musiała zająć się tym później...$s#$b#W każdym razie, twój jest gotowy! Niech ten ptak przypomina ci o wolności. Do zobaczenia!$h",
+    "ShaneMail.Text": "Hej @,^zauważyłem, że masz pełne kieszenie, kiedy pokazywałem ci moje kurczaki.^Łap ten baner na pamiątkę po tych niebieskich!^   - Shane",
+    "ChickenBanner.Name": "Kurzy baner",
+    "ShaneEvent.GiftText": "A, właśnie... weź ten baner. Będzie świetnie wyglądał na twojej ścianie.$h",
+    "FishBanner.Name": "Baner «Wielka Ryba»",
+    "WillyFishMail.Text": "Witaj, @!^Widziałem, jak ostatnio łowisz ryby. Robisz wielkie postępy!^Stary Willy rzadko myli się co do ludzi, a ty zdecydowanie masz talent. Cierpliwość i pewna ręka — oto sekret prawdziwego mistrza.^Znalazłem ten baner w starych skrzyniach i pomyślałem, że będzie świetnie wyglądał na twojej ścianie.^Tak trzymaj!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Prezent od Willy'ego",
+    "GoldCoconutBanner.Name": "Tropikalny Sztandar Kokosowy",
+    "Mail.WinterStar.Text": "Wesołego Święta Zimowej Gwiazdy!^Z okazji święta przesyłam ci ten wyjątkowy, rzadki baner do ozdobienia twojej farmy.^Niech przypomina ci o tej zimie.^^Z poważaniem,^Tajemniczy Nadawca %item object (F)MyCustomWinterStarBanner 1 %%[#]Świąteczny prezent"
+}
