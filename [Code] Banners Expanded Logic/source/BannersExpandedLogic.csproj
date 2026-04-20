@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <EnableModDeploy>false</EnableModDeploy>
-    <ModZipPath>$(SolutionDir)\_releases</ModZipPath>
+    <ModZipPath>$(SolutionDir)/_releases</ModZipPath>
   </PropertyGroup>
 
   <ItemGroup>
