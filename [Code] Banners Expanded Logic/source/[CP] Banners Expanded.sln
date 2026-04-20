@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[Code] Banners Expanded Log
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{ACDA5156-F5F8-96C0-07DF-53CEBF87B404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannersExpandedLogic", "[Code] Banners Expanded Logic\source\BannersExpandedLogic.csproj", "{38EE8F11-4D3F-ED4D-4943-46D6EA803144}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannersExpandedLogic", "BannersExpandedLogic.csproj", "{38EE8F11-4D3F-ED4D-4943-46D6EA803144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
