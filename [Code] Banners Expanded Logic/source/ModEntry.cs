@@ -77,13 +77,11 @@ namespace BannersExpandedLogic
 
         private void OnAssetRequested(object sender, AssetRequestedEventArgs e)
         {
-
             if (e.NameWithoutLocale.IsEquivalentTo("Data/Objects"))
             {
                 e.Edit(asset =>
                 {
                     var data = asset.GetData<Dictionary<string, ObjectData>>();
-
 
                     if (data.TryGetValue(GoldenCoconutID, out var goldenCoconut))
                     {
@@ -98,15 +96,16 @@ namespace BannersExpandedLogic
 
                         if (!coconutExists)
                         {
-                            goldenCoconut.GeodeDrops.Insert(0, new ObjectGeodeDropData()
+                            goldenCoconut.GeodeDrops.Add(new ObjectGeodeDropData()
                             {
+                                Id = "Sha425_TropicalBannerDrop", 
                                 ItemId = TropicalBannerID,
                                 Chance = CoconutChance,
-                                Condition = null
+                                Condition = null,
+                                Precedence = -10 
                             });
                         }
                     }
-
 
                     if (data.TryGetValue(OmniGeodeID, out var omniGeode))
                     {
@@ -121,11 +120,13 @@ namespace BannersExpandedLogic
 
                         if (!geodeExists)
                         {
-                            omniGeode.GeodeDrops.Insert(0, new ObjectGeodeDropData()
+                            omniGeode.GeodeDrops.Add(new ObjectGeodeDropData()
                             {
+                                Id = "Sha425_GeodeBannerDrop", 
                                 ItemId = GeodeBannerID,
                                 Chance = GeodeChance,
-                                Condition = null
+                                Condition = null,
+                                Precedence = -10
                             });
                         }
                     }
