@@ -102,7 +102,7 @@ namespace BannersExpandedLogic
                                 ItemId = TropicalBannerID,
                                 Chance = CoconutChance,
                                 Condition = null,
-                                Precedence = -10 
+                                Precedence = 0
                             });
                         }
                     }
@@ -126,7 +126,7 @@ namespace BannersExpandedLogic
                                 ItemId = GeodeBannerID,
                                 Chance = GeodeChance,
                                 Condition = null,
-                                Precedence = -10
+                                Precedence = 0
                             });
                         }
                     }
