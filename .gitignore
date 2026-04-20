@@ -1,6 +1,6 @@
 # Ignore build output directories
-bin/
-obj/
+**bin/
+**obj/
 
 # Visual Studio
 .vs/
@@ -15,5 +15,5 @@ project.assets.json
 *.nuget.g.targets
 
 # Build results
-*.dll
 *.pdb
+*.cache
