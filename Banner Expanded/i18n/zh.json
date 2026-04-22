@@ -24,5 +24,11 @@
    
     "GoldCoconutBanner.Name": "热带椰子旗帜",
     
-    "Mail.WinterStar.Text": "冬日之星盛宴快乐！^为了庆祝节日，我寄给你一面特别的稀有旗帜来装饰你的农场。^让它让你想起这个冬天。^^真诚地，^一位神秘的寄件人 %item object (F)MyCustomWinterStarBanner 1 %%[#]节日礼物"
+    "Mail.WinterStar.Text": "冬日之星盛宴快乐！^为了庆祝节日，我寄给你一面特别的稀有旗帜来装饰你的农场。^让它让你想起这个冬天。^^真诚地，^一位神秘的寄件人 %item object (F)MyCustomWinterStarBanner 1 %%[#]节日礼物",
+
+    "MomBanner.Name": "妈妈的旗帜",
+
+    "Mail.MomAnniversary.Text": "嗨，宝贝！^你们结婚已经整整一年了！时间过得真快。^我想这面旗帜会把你们的家装饰得很漂亮。^爱你的，妈妈 %item object (F)MyCustomMomBanner 1 %%[#]来自妈妈的礼物",
+
+    "SummerBanner.Name": "夏季旗帜"
 }

@@ -24,5 +24,11 @@
 
     "GoldCoconutBanner.Name": "Tropical Coconut Banner",
 
-    "Mail.WinterStar.Text": "Happy Feast of the Winter Star!^In honor of the holiday, I am sending you a special rare banner to decorate your farm.^Let it remind you of this winter.^^Sincerely,^A Mysterious Sender %item object (F)MyCustomWinterStarBanner 1 %%[#]Holiday Gift"
+    "Mail.WinterStar.Text": "Happy Feast of the Winter Star!^In honor of the holiday, I am sending you a special rare banner to decorate your farm.^Let it remind you of this winter.^^Sincerely,^A Mysterious Sender %item object (F)MyCustomWinterStarBanner 1 %%[#]Holiday Gift",
+    
+    "MomBanner.Name": "Mom's Banner",
+    
+    "Mail.MomAnniversary.Text": "Hi, sweetie!^A whole year has passed since your wedding! Time flies so fast.^I thought this banner would look great decorating your home.^With love, Mom %item object (F)MyCustomMomBanner 1 %%[#]Gift from Mom",
+    
+    "SummerBanner.Name": "Summer Banner"
 }

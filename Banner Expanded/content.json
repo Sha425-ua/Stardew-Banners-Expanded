@@ -1,91 +1,27 @@
 {
     "Format": "2.8.0",
     "Changes": [
+        { "Action": "Load", "Target": "Sha425_Moon", "FromFile": "assets/moonbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Harvest", "FromFile": "assets/harvestbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Mushroom", "FromFile": "assets/mushroombanner.png" },
+        { "Action": "Load", "Target": "Sha425_WinterStar", "FromFile": "assets/winterstarbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Dragon", "FromFile": "assets/dragonbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Spring", "FromFile": "assets/springbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Geode", "FromFile": "assets/geodebanner.png" },
+        { "Action": "Load", "Target": "Sha425_Star", "FromFile": "assets/starbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Parrot", "FromFile": "assets/parrotbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Fish", "FromFile": "assets/fishbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Chicken", "FromFile": "assets/chickenbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Coconut", "FromFile": "assets/goldcoconut.png" },
+        { "Action": "Load", "Target": "Sha425_Desert", "FromFile": "assets/desertbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Pearl", "FromFile": "assets/pearlbanner.png" },
+        { "Action": "Load", "Target": "Sha425_Mom", "FromFile": "assets/mombanner.png" },
+        { "Action": "Load", "Target": "Sha425_Summer", "FromFile": "assets/summerbanner.png" },
         {
             "Action": "Load",
-            "Target": "Sha425_Moon",
-            "FromFile": "assets/moonbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Harvest",
-            "FromFile": "assets/harvestbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Mushroom",
-            "FromFile": "assets/mushroombanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_WinterStar",
-            "FromFile": "assets/winterstarbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Dragon",
-            "FromFile": "assets/dragonbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Spring",
-            "FromFile": "assets/springbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Geode",
-            "FromFile": "assets/geodebanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Star",
-            "FromFile": "assets/starbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Parrot",
-            "FromFile": "assets/parrotbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Fish", 
-            "FromFile": "assets/fishbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Sun",
+            "Target": "Sha425_Sun, Mods/Sha_425.Banner/SunTexture", 
             "FromFile": "assets/sunbanner.png",
-            "When": {
-                "HasMod": "FlashShifter.StardewValleyExpandedCP"
-            }
-        },
-        {
-            "Action": "Load",
-            "Target": "Mods/Sha_425.Banner/SunTexture",
-            "FromFile": "assets/sunbanner.png",
-            "When": {
-                "HasMod": "FlashShifter.StardewValleyExpandedCP"
-            }
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Chicken",
-            "FromFile": "assets/chickenbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Coconut",
-            "FromFile": "assets/goldcoconut.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Desert",
-            "FromFile": "assets/desertbanner.png"
-        },
-        {
-            "Action": "Load",
-            "Target": "Sha425_Pearl",
-            "FromFile": "assets/pearlbanner.png"
+            "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
         },
 
         {
@@ -105,20 +41,20 @@
                 "MyCustomFishBanner": "FishBannerItem/painting/1 3/1 3/1/1200/-1/{{i18n:FishBanner.Name}}/0/Sha425_Fish/true/ ",
                 "MyCustomGoldCoconutBanner": "GoldCoconutBannerItem/painting/1 3/1 3/1/8000/-1/{{i18n:GoldCoconutBanner.Name}}/0/Sha425_Coconut/true/ ",
                 "MyCustomDesertBanner": "DesertBannerItem/painting/1 3/1 3/1/2000/-1/{{i18n:DesertBanner.Name}}/0/Sha425_Desert/true/",
-                "MyCustomPearlBanner": "PearlBannerItem/painting/1 3/1 3/1/6000/-1/{{i18n:PearlBanner.Name}}/0/Sha425_Pearl/true/"
+                "MyCustomPearlBanner": "PearlBannerItem/painting/1 3/1 3/1/6000/-1/{{i18n:PearlBanner.Name}}/0/Sha425_Pearl/true/",
+                "MyCustomMomBanner": "MomBannerItem/painting/1 3/1 3/1/0/-1/{{i18n:MomBanner.Name}}/0/Sha425_Mom/false/",
+                "MyCustomSummerBanner": "SummerBannerItem/painting/1 3/1 3/1/1500/-1/{{i18n:SummerBanner.Name}}/0/Sha425_Summer/true/"
             }
         },
-
         {
             "Action": "EditData",
             "Target": "Data/Furniture",
             "Entries": {
                 "MyCustomSunBanner": "SunBannerItem/painting/1 3/1 3/1/800/-1/{{i18n:SunBanner.Name}}/0/Sha425_Sun/true/collection_sve_furniturecatalogue2"
             },
-            "When": {
-                "HasMod": "FlashShifter.StardewValleyExpandedCP"
-            }
+            "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
         },
+
 
         {
             "Action": "EditData",
@@ -126,39 +62,23 @@
             "Priority": "Late",
             "TargetField": [ "DesertFestival_EggShop", "Items" ],
             "Entries": {
-                "Sha_425.DesertBanner_Shadow": 
-                        {
-                            "Id": "Sha_425.DesertBanner_Shadow",
-                            "ItemId": "(F)MyCustomDesertBanner",
-                            "TradeItemId": "(O)CalicoEgg", 
-                            "TradeItemAmount": 20,
-                            "AvailableStock": -1
-                        }
-                    
-                }
-        },
-
-        {
-            "Action": "EditData",
-            "Target": "Data/Shops",
-            "TargetField": [ "SeedShop", "Items" ],
-            "Priority": "Late",
-            "Entries": {
-                "Sha_425.HarvestBanner_InShop": {
-                    "Id": "Sha_425.HarvestBanner_InShop",
-                    "ItemId": "(F)MyCustomHarvestBanner",
-                    "Price": 2000,
-                    "AvailableStock": 1,
-                    "Condition": "SEASON Fall, !PLAYER_HAS_MAIL Current Sha_425_BoughtBanner_{{year}}",
-                    "OnPurchase": [ { "Action": "AddMail", "Arguments": [ "Sha_425_BoughtBanner_{{year}}" ] } ]
-                }
+                "Sha_425.DesertBanner_Shadow": { "Id": "Sha_425.DesertBanner_Shadow", "ItemId": "(F)MyCustomDesertBanner", "TradeItemId": "(O)CalicoEgg", "TradeItemAmount": 20, "AvailableStock": -1 }
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/Shops",
-            "TargetField": [ "Festival_StardewValleyFair_StarTokens", "Items" ],
             "Priority": "Late",
+            "TargetField": [ "SeedShop", "Items" ],
+            "Entries": {
+                "Sha_425.HarvestBanner_InShop": { "Id": "Sha_425.HarvestBanner_InShop", "ItemId": "(F)MyCustomHarvestBanner", "Price": 2000, "AvailableStock": 1, "Condition": "SEASON Fall, !PLAYER_HAS_MAIL Current Sha_425_BoughtBanner_{{year}}", "OnPurchase": [ { "Action": "AddMail", "Arguments": [ "Sha_425_BoughtBanner_{{year}}" ] } ] }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "Priority": "Late",
+            "TargetField": [ "Festival_StardewValleyFair_StarTokens", "Items" ],
             "Entries": {
                 "Sha_425.MushroomBanner_Fair": { "Id": "Sha_425.MushroomBanner_Fair", "ItemId": "(F)MyCustomMushroomBanner", "Price": 800 }
             }
@@ -166,8 +86,8 @@
         {
             "Action": "EditData",
             "Target": "Data/Shops",
-            "TargetField": [ "Traveler", "Items" ],
             "Priority": "Late",
+            "TargetField": [ "Traveler", "Items" ],
             "Entries": {
                 "Sha_425.WinterStar_Traveler": { "Id": "Sha_425.WinterStar_Traveler", "ItemId": "(F)MyCustomWinterStarBanner", "Price": 50000, "Condition": "SEASON Winter" }
             }
@@ -175,29 +95,17 @@
         {
             "Action": "EditData",
             "Target": "Data/Shops",
-            "TargetField": [ "AdventureShop", "Items" ],
             "Priority": "Late",
+            "TargetField": [ "AdventureShop", "Items" ],
             "Entries": {
-                "Sha_425.DragonBanner_Guild": {
-                    "Id": "Sha_425.DragonBanner_Guild",
-                    "ItemId": "(F)MyCustomDragonBanner",
-                    "Price": 4000,
-                    "AvailableStock": 1,
-                    "Condition": "!PLAYER_HAS_MAIL Current Sha_425_BoughtDragonBanner",
-                    "OnPurchase": [
-                        { "Action": "AddMail", "Arguments": [ "Sha_425_BoughtDragonBanner" ] }
-                    ]
-                }
+                "Sha_425.DragonBanner_Guild": { "Id": "Sha_425.DragonBanner_Guild", "ItemId": "(F)MyCustomDragonBanner", "Price": 4000, "AvailableStock": 1, "Condition": "!PLAYER_HAS_MAIL Current Sha_425_BoughtDragonBanner", "OnPurchase": [ { "Action": "AddMail", "Arguments": [ "Sha_425_BoughtDragonBanner" ] } ] }
             }
         },
-
-
-
         {
             "Action": "EditData",
             "Target": "Data/Shops",
-            "TargetField": [ "Festival_FlowerDance_Pierre", "Items" ],
             "Priority": "Late",
+            "TargetField": [ "Festival_FlowerDance_Pierre", "Items" ],
             "Entries": {
                 "Sha_425.SpringBanner_Dance": { "Id": "Sha_425.SpringBanner_Dance", "ItemId": "(F)MyCustomSpringBanner", "Price": 1000 }
             }
@@ -205,50 +113,46 @@
         {
             "Action": "EditData",
             "Target": "Data/Shops",
-            "TargetField": [ "Festival_NightMarket_DecorationBoat", "Items" ],
             "Priority": "Late",
+            "TargetField": [ "Festival_NightMarket_DecorationBoat", "Items" ],
             "Entries": {
-                "Sha_425.StarBanner_NightMarket": { 
-                    "Id": "Sha_425.StarBanner_NightMarket", 
-                    "ItemId": "(F)MyCustomStarBanner", 
-                    "Price": 2500 
-                }
+                "Sha_425.StarBanner_NightMarket": { "Id": "Sha_425.StarBanner_NightMarket", "ItemId": "(F)MyCustomStarBanner", "Price": 2500 }
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ "Festival_Luau_Pierre", "Items" ],
+            "Priority": "Late",
+            "Entries": {
+                "Sha_425.LuauBanner_Shop": { "Id": "Sha_425.LuauBanner_Shop", "ItemId": "(F)MyCustomSummerBanner", "Price": 1500 }
+            }
+        },
+
 
         {
             "Action": "EditData",
             "Target": "Data/mail",
             "Entries": {
                 "Sha_425.WinterStar_Gift": "{{i18n:Mail.WinterStar.Text}}",
-                "Sha425_Fish": "{{i18n:WillyFishMail.Text}}"
+                "Sha425_Fish": "{{i18n:WillyFishMail.Text}}",
+                "Sha_425.MomAnniversary_Gift": "{{i18n:Mail.MomAnniversary.Text}}"
             }
         },
+
+
         {
             "Action": "EditData",
             "Target": "Data/TriggerActions",
             "Entries": {
-                "Sha_425.Send_Winter_Mail": {
-                    "Id": "Sha_425.Send_Winter_Mail",
-                    "Trigger": "DayStarted",
-                    "Condition": "YEAR 2, SEASON winter, DAY_OF_MONTH 25, !PLAYER_HAS_MAIL Current Sha_425.WinterStar_Gift",
-                    "Action": "AddMail Current Sha_425.WinterStar_Gift"
-                },
-                "Sha_425.FishMastery": {
-                    "Id": "Sha_425.FishMastery",
-                    "Trigger": "LocationChanged", 
-                    "Condition": "PLAYER_STAT Current fishCaught 100, !PLAYER_HAS_MAIL Current Sha425_Fish",
-                    "Action": "AddMail Current Sha425_Fish"
-                }
-                
+                "Sha_425.Send_Winter_Mail": { "Id": "Sha_425.Send_Winter_Mail", "Trigger": "DayStarted", "Condition": "YEAR 2, SEASON winter, DAY_OF_MONTH 25, !PLAYER_HAS_MAIL Current Sha_425.WinterStar_Gift", "Action": "AddMail Current Sha_425.WinterStar_Gift" },
+                "Sha_425.FishMastery": { "Id": "Sha_425.FishMastery", "Trigger": "LocationChanged", "Condition": "PLAYER_STAT Current fishCaught 100, !PLAYER_HAS_MAIL Current Sha425_Fish", "Action": "AddMail Current Sha425_Fish" }
             }
         },
-
         {
             "Action": "EditData",
             "Target": "Data/Events/Farm",
             "Entries": {
-
                 "6000006/m 10000/t 600 1500": "continue/64 15/farmer 64 16 2 Emily 64 18 0/pause 1500/speak Emily \"{{i18n:EmilyEvent.Dialogue1}}\"/pause 500/emote Emily 40/speak Emily \"{{i18n:EmilyEvent.Dialogue2}}\"/addItem (F)MyCustomParrotBanner/end"
             }
         }

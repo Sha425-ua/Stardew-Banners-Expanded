@@ -19,5 +19,8 @@
     "FishBanner.Name": "Bannière du Gros Poisson",
     "WillyFishMail.Text": "Salut @ !^Je t'ai vu pêcher ces derniers temps. Tu fais de super progrès !^Le vieux Willy se trompe rarement sur les gens, et tu as vraiment du talent. De la patience et une main ferme — c'est le secret d'un vrai maître.^J'ai trouvé cette bannière dans de vieux coffres et j'ai pensé qu'elle irait bien sur ton mur.^Continue comme ça !^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Un cadeau de Willy",
     "GoldCoconutBanner.Name": "Bannière de Noix de Coco Tropicale",
-    "Mail.WinterStar.Text": "Joyeuse Fête de l'Étoile d'Hiver !^En l'honneur de cette fête, je t'envoie une bannière rare spéciale pour décorer ta ferme.^Laisse-la te rappeler cet hiver.^^Sincèrement,^Un expéditeur mystérieux %item object (F)MyCustomWinterStarBanner 1 %%[#]Cadeau de Noël"
+    "Mail.WinterStar.Text": "Joyeuse Fête de l'Étoile d'Hiver !^En l'honneur de cette fête, je t'envoie une bannière rare spéciale pour décorer ta ferme.^Laisse-la te rappeler cet hiver.^^Sincèrement,^Un expéditeur mystérieux %item object (F)MyCustomWinterStarBanner 1 %%[#]Cadeau de Noël",
+    "MomBanner.Name": "Bannière de maman",
+    "Mail.MomAnniversary.Text": "Salut, mon chéri !^Une année entière s'est déjà écoulée depuis ton mariage ! Le temps passe si vite.^J'ai pensé que cette bannière décorerait magnifiquement votre maison.^Avec amour, Maman %item object (F)MyCustomMomBanner 1 %%[#]Cadeau de maman",
+    "SummerBanner.Name": "Bannière d'été"
 }

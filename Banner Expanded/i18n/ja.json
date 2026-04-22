@@ -19,5 +19,8 @@
     "FishBanner.Name": "大魚の旗",
     "WillyFishMail.Text": "やあ、@！^最近よく釣りをしているようだね。素晴らしい上達ぶりだ！^わしの目に狂いはない。あんたには間違いなく才能がある。忍耐と安定した腕前、それが真の達人の秘訣だよ。^古い宝箱の中からこの旗を見つけたんだが、あんたの家の壁に飾れば映えると思ってね。^これからも励みなさい！^   - ウィリー %item object (F)MyCustomFishBanner 1 %%[#]ウィリーからの贈り物",
     "GoldCoconutBanner.Name": "南国のココナッツの旗",
-    "Mail.WinterStar.Text": "冬の星祭、おめでとう！^祝日を記念して、牧場を飾るための特別なレアな旗を贈るよ。^この冬の思い出に飾ってくれ。^^敬具^謎の送り主より %item object (F)MyCustomWinterStarBanner 1 %%[#]冬の星祭の贈り物"
+    "Mail.WinterStar.Text": "冬の星祭、おめでとう！^祝日を記念して、牧場を飾るための特別なレアな旗を贈るよ。^この冬の思い出に飾ってくれ。^^敬具^謎の送り主より %item object (F)MyCustomWinterStarBanner 1 %%[#]冬の星祭の贈り物",
+    "MomBanner.Name": "お母さんからの旗",
+    "Mail.MomAnniversary.Text": "こんにちは、いい子ね！^結婚してからもう丸一年が経ったのね！月日が流れるのは本当に早いわ。^この旗なら、あなたたちの家を素敵に飾れると思ってね。^愛を込めて、お母さんより %item object (F)MyCustomMomBanner 1 %%[#]お母さんからの贈り物",
+    "SummerBanner.Name": "夏の旗"
 }
