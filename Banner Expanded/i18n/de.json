@@ -24,5 +24,11 @@
 
     "GoldCoconutBanner.Name": "Tropisches Kokosnuss-Banner",
 
-    "Mail.WinterStar.Text": "Frohes Fest des Wintersterns!^Zu Ehren des Feiertags sende ich dir ein besonderes, seltenes Banner, um deine Farm zu schmücken.^Lass es dich an diesen Winter erinnern.^^Hochachtungsvoll,^Ein geheimnisvoller Absender %item object (F)MyCustomWinterStarBanner 1 %%[#]Festtagsgeschenk"
+    "Mail.WinterStar.Text": "Frohes Fest des Wintersterns!^Zu Ehren des Feiertags sende ich dir ein besonderes, seltenes Banner, um deine Farm zu schmücken.^Lass es dich an diesen Winter erinnern.^^Hochachtungsvoll,^Ein geheimnisvoller Absender %item object (F)MyCustomWinterStarBanner 1 %%[#]Festtagsgeschenk",
+
+    "MomBanner.Name": "Banner von Mama",
+
+    "Mail.MomAnniversary.Text": "Hallo, Schätzchen!^Ein ganzes Jahr ist seit deiner Hochzeit vergangen! Die Zeit vergeht so schnell.^Ich dachte, dieses Banner würde euer Zuhause wunderbar dekorieren.^In Liebe, Mama %item object (F)MyCustomMomBanner 1 %%[#]Geschenk von Mama",
+    
+    "SummerBanner.Name": "Sommerbanner"
 }

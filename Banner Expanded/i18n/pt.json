@@ -19,5 +19,8 @@
     "FishBanner.Name": "Estandarte do Peixe Grande",
     "WillyFishMail.Text": "Olá, @!^Tenho visto você pescando ultimamente. Você está progredindo muito!^O velho Willy raramente se engana sobre as pessoas, e você definitivamente tem talento. Paciência e mão firme — esse é o segredo de um verdadeiro mestre.^Encontrei este estandarte em uns baús velhos e achei que ficaria ótimo na sua parede.^Continue assim!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Um presente do Willy",
     "GoldCoconutBanner.Name": "Estandarte de Coco Tropical",
-    "Mail.WinterStar.Text": "Feliz Festival da Estrela de Inverno!^Em honra ao feriado, estou te enviando um estandarte raro especial para decorar sua fazenda.^Que ele te lembre deste inverno.^^Sinceramente,^Um remetente misterioso %item object (F)MyCustomWinterStarBanner 1 %%[#]Presente de Festival"
+    "Mail.WinterStar.Text": "Feliz Festival da Estrela de Inverno!^Em honra ao feriado, estou te enviando um estandarte raro especial para decorar sua fazenda.^Que ele te lembre deste inverno.^^Sinceramente,^Um remetente misterioso %item object (F)MyCustomWinterStarBanner 1 %%[#]Presente de Festival",
+    "MomBanner.Name": "Estandarte da mamãe",
+    "Mail.MomAnniversary.Text": "Oi, querido!^Já se passou um ano inteiro desde o seu casamento! O tempo voa tão rápido.^Achei que este estandarte decoraria muito bem a sua casa.^Com amor, Mamãe %item object (F)MyCustomMomBanner 1 %%[#]Presente da mamãe",
+    "SummerBanner.Name": "Estandarte de verão"
 }

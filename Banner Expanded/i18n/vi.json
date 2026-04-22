@@ -19,5 +19,8 @@
     "FishBanner.Name": "Cờ Cá Lớn",
     "WillyFishMail.Text": "Chào con, @!^Gần đây ta thấy con đi câu cá suốt. Con đang tiến bộ rất nhanh đấy!^Lão Willy này hiếm khi nhìn lầm người, và con chắc chắn có tài năng. Kiên trì và chắc tay — đó là bí quyết của một bậc thầy thực thụ.^Ta tìm thấy chiếc cờ này trong mấy cái rương cũ và nghĩ nó sẽ rất đẹp trên tường nhà con.^Cố gắng lên nhé!^   - Willy %item object (F)MyCustomFishBanner 1 %%[#]Món quà từ Willy",
     "GoldCoconutBanner.Name": "Cờ Dừa Nhiệt Đới",
-    "Mail.WinterStar.Text": "Chúc mừng Lễ Hội Ngôi Sao Mùa Đông!^Để kỷ niệm ngày lễ, ta gửi cho con một chiếc cờ hiếm đặc biệt để trang trí trang trại.^Hãy để nó nhắc con về mùa đông này nhé.^^Thân ái,^Người gửi bí ẩn %item object (F)MyCustomWinterStarBanner 1 %%[#]Quà Ngày Lễ"
+    "Mail.WinterStar.Text": "Chúc mừng Lễ Hội Ngôi Sao Mùa Đông!^Để kỷ niệm ngày lễ, ta gửi cho con một chiếc cờ hiếm đặc biệt để trang trí trang trại.^Hãy để nó nhắc con về mùa đông này nhé.^^Thân ái,^Người gửi bí ẩn %item object (F)MyCustomWinterStarBanner 1 %%[#]Quà Ngày Lễ",
+    "MomBanner.Name": "Cờ của mẹ",
+    "Mail.MomAnniversary.Text": "Chào con yêu!^Vậy là đã tròn một năm kể từ ngày cưới của con rồi! Thời gian trôi nhanh quá.^Mẹ nghĩ chiếc cờ này sẽ trang trí tổ ấm của con thật đẹp.^Yêu con, Mẹ %item object (F)MyCustomMomBanner 1 %%[#]Quà từ mẹ",
+    "SummerBanner.Name": "Cờ mùa hè"
 }

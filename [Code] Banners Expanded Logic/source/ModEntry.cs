@@ -35,7 +35,25 @@ namespace BannersExpandedLogic
             helper.Events.GameLoop.OneSecondUpdateTicked += OnOneSecondUpdateTicked;
             helper.Events.Content.AssetRequested += OnAssetRequested;
             helper.Events.Display.MenuChanged += OnMenuChanged;
+
+            helper.Events.GameLoop.DayStarted += OnDayStarted;
         }
+
+        private void OnDayStarted(object sender, DayStartedEventArgs e)
+        {
+            if (!Context.IsWorldReady || Game1.player == null) return;
+
+            if (Game1.player.GetDaysMarried() >= 112) 
+            {
+                string mailId = "Sha_425.MomAnniversary_Gift";  
+
+                if (!Game1.player.mailReceived.Contains(mailId) && !Game1.player.mailForTomorrow.Contains(mailId))
+                {
+                    Game1.mailbox.Add(mailId);
+                }
+            }
+        }
+        
 
         private void OnMenuChanged(object sender, MenuChangedEventArgs e)
         {
@@ -68,7 +86,7 @@ namespace BannersExpandedLogic
                         }
                         else
                         {
-                            Monitor.Log($"[ERROR] Предмет {FishBannerID} не найден.", LogLevel.Error);
+                            Monitor.Log($"[ERROR] Item {FishBannerID} not found", LogLevel.Error);
                         }
                     }
                 }
@@ -171,7 +189,7 @@ namespace BannersExpandedLogic
 
                 if (banner == null)
                 {
-                    Monitor.Log($"[ERROR] Не удалось найти предмет с ID: {itemID}", LogLevel.Error);
+                    Monitor.Log($"[ERROR] Unable to find item with ID: {itemID}", LogLevel.Error);
                     return;
                 }
 
@@ -189,7 +207,7 @@ namespace BannersExpandedLogic
             }
             catch (Exception ex)
             {
-                Monitor.Log($"[ERROR] Ошибка при выдаче награды ({itemID}): {ex.Message}", LogLevel.Error);
+                Monitor.Log($"[ERROR] Error occurred while giving reward ({itemID}): {ex.Message}", LogLevel.Error);
             }
         }
     }
