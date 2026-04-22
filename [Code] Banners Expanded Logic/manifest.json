@@ -1,7 +1,7 @@
 {
   "Name": "Banner Expanded",
   "Author": "Sha_425",
-  "Version": "1.5.4-hf",
+  "Version": "1.6.0",
   "Description": "Logic for delivering rewards.",
   "UniqueID": "Sha_425.Banner.Logic",
   "EntryDll": "BannersExpandedLogic.dll",
